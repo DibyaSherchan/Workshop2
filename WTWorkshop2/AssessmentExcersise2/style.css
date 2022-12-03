@@ -1,0 +1,198 @@
+.Welc-bio{
+    font-weight: 600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  background-color: gray;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+.Bio{
+  text-align: left;
+}
+.Int-bio{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 600px;
+  font-size: 40px;
+  text-align: center;
+  background-color: gray;
+  margin: 10px;
+  padding: 10px;
+}
+.navBar ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .navBar li{
+    display: inline-block;
+  }  
+  .navBar a{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 30px;
+  }
+  nav a:hover, 
+  nav a:focus{
+    color: green;
+  }
+.hobby{
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Bio{
+    font-weight: 300;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Container{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Short{
+  font-size: 20px;
+}
+.myself{
+  font-size: 25px;
+}
+.form{
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.form2 [type="text"],
+.form2 textarea{
+  padding: 10px;
+  height: 100px;
+  width: 50%;
+}
+.Next{
+  font-weight: 300;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td, th {
+  font-size: 50px;
+  border: 1px solid grey;
+  text-align: left;
+  padding: 8px;
+}
+.Pics{
+  height: 250px;
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Pics2{
+  height: 250px;
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Pics3{
+  height: 250px;
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Pic4{
+  height: 250px;
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Table{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Table a{
+  color: black;
+    text-decoration: underline;
+    padding: 30px;
+    font-size: 30px;
+}
+.Table a:hover{
+  color: green;
+}
+.foot{
+  font-size: 30px;
+}
+.button{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding: 10px;
+}
+.button a{
+  color: black;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 30px;
+}
+.button a:hover{
+  color: green;
+}
+.Pog1{
+  height: 700px;
+  padding: 30px;
+  padding-right: auto;
+}
+.Pog{
+  background-color: gray;
+}
+.Social{
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.socialmedia{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.socialmedia :hover{
+  color: green;
+}
+.socialmedia a{
+  color: black;
+  text-decoration: none;
+  padding: 30px;
+  font-size: 30px;
+}
+.TITLE{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tags{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.arti{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Aside{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  width: 30%;
+  padding-right: 15px;
+  margin-right: 15px;
+  float: left;
+}
+.Aside2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  text-align: right;
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+}
+.ArtiH1{
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
